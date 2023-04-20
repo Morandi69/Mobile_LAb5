@@ -96,7 +96,7 @@
 
 ## <p align = "center">CodeWars</p>
 
-## [Ссылка на профиль Codewars](https://www.codewars.com/users/NoToxic/completed_solutions)
+## [Ссылка на профиль Codewars](https://www.codewars.com/users/NoToxic)
 
 ![](codewars1.png)
 ![](codewars2.png)
